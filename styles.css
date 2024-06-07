@@ -1,0 +1,74 @@
+
+
+/* Rubik isn't highlighted since it's not a saved word in VSCode, a foreign word */
+
+
+.hidden
+{
+    visibility: hidden;
+    margin-top: 50px;
+    margin-bottom: 500px;
+    color: white;
+    background-color: black;
+    opacity: 0.75;
+    padding: 30px;
+    width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 25px;
+    font-size: 25px;
+    font-family: Oxanium;
+}
+
+.center
+{
+    height: 100px;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    display: block;
+}
+
+#name
+{
+    margin-left: 10px;
+    color: white;
+    font-size: 70px;
+    font-family: Tangerine;
+}
+
+#hobbies
+{
+    font-family: Rubik;
+    font-size: 100px;
+    color: white;
+    text-align: center;
+}
+
+.card-group
+{
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    opacity: 0.79;
+    border-collapse: separate;
+
+}
+
+.card
+{
+    background-color: black;
+    color: white;
+}
+
+.card:hover
+{
+    background-color: #292828;
+}
+
+.card-footer
+{
+    height: 0px;
+}
